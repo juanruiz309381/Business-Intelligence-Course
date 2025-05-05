@@ -1,0 +1,11 @@
+id_componente,vida_util_real_anios,vida_util_predicha_anios,num_mantenimientos,num_fallas,mant_frecuente,causa_falla_frecuente,diferencia_anios,error_porcentual
+2,14.42,10.60,52,47,Revisión,Desgaste,3.82,26.49
+6,14.52,10.83,64,60,Lubricación,Corrosión,3.69,25.38
+5,7.22,8.94,57,58,Lubricación,Sobrecalentamiento,-1.73,-23.92
+7,8.66,10.33,52,51,Ajuste,Desgaste,-1.67,-19.28
+1,14.43,13.13,53,53,Revisión,Corrosión,1.30,9.04
+8,13.46,12.36,51,51,Ajuste,Desgaste,1.10,8.15
+9,10.72,11.80,64,64,Revisión,Vibración excesiva,-1.08,-10.07
+4,13.34,12.53,58,63,Revisión,Desgaste,0.80,6.01
+10,9.17,9.49,3,3,Lubricación,Sobrecalentamiento,-0.32,-3.51
+3,11.79,11.82,46,50,Ajuste,Corrosión,-0.03,-0.22
