@@ -45,3 +45,7 @@ Thumbs.db
 
 # Archivos de bases de datos temporales
 *.sqlite3
+
+# Knime files
+Example Workflows/
+.metadata/
